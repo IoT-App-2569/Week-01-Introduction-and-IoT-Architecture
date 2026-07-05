@@ -122,8 +122,8 @@
 <img width="1907" height="867" alt="image" src="https://github.com/user-attachments/assets/74fc4353-3cf8-4792-9539-d763cb614e9f" />
 <img width="1901" height="860" alt="image" src="https://github.com/user-attachments/assets/5c1898a9-cdc3-4f46-8f9a-6239b91fcb3d" />
 <img width="1897" height="863" alt="image" src="https://github.com/user-attachments/assets/123b2b52-5eb4-442e-ac4d-36c575c7e44f" />
----
 
+---
 # Prompt หมวด C — ข้อที่ 2: IoTWF Standardized Architecture
 ## Question
 ```

@@ -1,0 +1,8 @@
+สถาปัตยกรรม IoT แบบ 7 ชั้นของ IoTWF (World Forum Standard):
+Layer 7: Collaboration & Processes (คนและกระบวนการทางธุรกิจ)
+Layer 6: Application (หน้าจอแดชบอร์ด, ซอฟต์แวร์วิเคราะห์ข้อมูล)
+Layer 5: Data Abstraction (การแปลงโครงสร้างข้อมูลและบริหารสิทธิ์)
+Layer 4: Data Accumulation (การจัดเก็บลง Storage / Database)
+Layer 3: Edge Computing (การประมวลผล คัดกรอง และแปลงข้อมูล ณ ขอบเครือข่าย)
+Layer 2: Connectivity (เราเตอร์, สวิตช์, Wi-Fi, 4G/5G, LoRaWAN)
+Layer 1: Physical Devices & Controllers (เซนเซอร์, แอคชูเอเตอร์, บอร์ดไมโครคอนโทรลเลอร์)

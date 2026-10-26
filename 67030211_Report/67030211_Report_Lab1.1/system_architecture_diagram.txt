@@ -1,0 +1,16 @@
++---------------------------------------------------------------+
+|                    Smart AC IoT Architecture                  |
++---------------------------------------------------------------+
+[ Room Environment ] ---> ( DHT22 Temp/Humidity Sensor )
+                                     |
+                                     v
+                           [ Microcontroller ESP32 ]
+                                     | (Wi-Fi 802.11 b/g/n)
+                                     v
+                             [ Home Wi-Fi AP ]
+                                     | (Internet)
+                                     v
+                           [ Cloud IoT Platform ] <---> [ Mobile App ]
+                                     |                    (User Control)
+                                     v
+                       [ Motor / Compressor Actuator ]

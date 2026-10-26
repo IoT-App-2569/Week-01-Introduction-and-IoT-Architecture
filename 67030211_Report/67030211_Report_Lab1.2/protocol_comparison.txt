@@ -1,6 +1,0 @@
-ตารางเปรียบเทียบ Application Layer Protocols:
-Protocol | Architecture        | Transport | Header Size | Use Case
--------------------------------------------------------------------------------
-MQTT     | Publish / Subscribe | TCP       | 2 bytes     | แบตเตอรี่จำกัด, แบนด์วิดท์ต่ำ
-AMQP     | Message Queuing     | TCP       | 8+ bytes    | ธุรกรรมองค์กร, โรงงานอุตสาหกรรม
-XMPP     | Client-Server XML   | TCP       | > 100 bytes | Smart Home, สื่อสารเรียลไทม์

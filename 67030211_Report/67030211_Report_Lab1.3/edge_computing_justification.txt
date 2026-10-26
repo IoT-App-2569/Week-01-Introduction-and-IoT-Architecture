@@ -1,4 +1,0 @@
-เหตุผลที่ Layer 3 (Edge Computing) มีความสำคัญสูงสุด:
-- ช่วยลด Bandwidth ในการส่งข้อมูลขยะขึ้น Cloud
-- ลด Latency ในการสั่งการฉุกเฉิน (Local Autonomy)
-- ให้ระบบทำงานต่อได้แม้สัญญาณเน็ตเวิร์กภายนอกตัดขาด (Local Survivability)

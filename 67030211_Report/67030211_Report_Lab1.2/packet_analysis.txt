@@ -1,4 +1,0 @@
-Wireshark Packet Header Comparison Summary:
-1. MQTT CONNECT / PUBLISH: Fixed header = 2 bytes. Minimal overhead.
-2. AMQP Frame: Frame Header 8 bytes + Type/Channel + Payload format.
-3. XMPP Stanza: XML tag wrapper <message to='...' from='...'><body>...</body></message> (>150 bytes).

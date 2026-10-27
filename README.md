@@ -58,7 +58,7 @@
 | **Level 1** | **Physical Devices & Controllers** | ตรวจวัดสภาพแวดล้อมทางกายภาพและสั่งการทำงานอุปกรณ์จริง | Sensors, Actuators, Microcontrollers (ESP32), ADC/DAC |
 
 <p align="center"><img src="Images/Fig_README_2026-10-27T07-53-18_academic.svg" alt="README" ></p>
-<p align="center">  4. โครงสร้างสถาปัตยกรรม IoTWF 7 ชั้น และวงจรระบบกายภาพสู่ดิจิทัล (Architecture &amp; Data Flow)</p>
+<p align="center"> โครงสร้างสถาปัตยกรรม IoTWF 7 ชั้น และวงจรระบบกายภาพสู่ดิจิทัล (Architecture &amp; Data Flow)</p>
 
 ---
 

@@ -175,3 +175,7 @@ flowchart LR
 
 ---
 ## เทคโนโลยีที่เกี่ยวข้องกับการพัฒนา IoT
+
+
+<p align="center"><img src="Images/Charge-pump-Block_themed_academic.svg" alt="Charge-pump-Block_themed_academic" width="800" style="max-width: 800px; width: 100%; height: auto;" ></p>
+<p align="center"><b>รูปที่</b> แผนภาพแสดงโครงสร้าง</p>

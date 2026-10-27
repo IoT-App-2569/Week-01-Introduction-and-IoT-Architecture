@@ -23,26 +23,8 @@
 
 ## 2. แผนผังเนื้อหาการเรียนรู้ประจำสัปดาห์ (Lesson Roadmap)
 
-```mermaid
-flowchart LR
-    A["<b>สัปดาห์ที่ 01</b><br> Introduction to IoT & IoT Architecture"] --> B["1. พื้นฐานและวิวัฒนาการ IoT<br/>(Kevin Ashton, Physical-Digital Loop, Automatic vs IoT)"]
-    A --> C["2. เทคโนโลยีรากฐาน & Network Stack<br/>(OSI vs IoT Stack, Device Abstraction, Digital Twin)"]
-    A --> D["3. Internet Layer สำหรับ IoT<br/>(IPv6 Addressing, 6LoWPAN Compression, RPL Routing)"]
-    A --> E["4. Application Layer Protocols<br/>(MQTT Pub/Sub, CoAP RFC 7252, HTTP/REST, AMQP)"]
-    A --> F["5. ความท้าทายเชิงวิศวกรรม IoT<br/>(Range, Bandwidth, Power Duty Cycle, Security)"]
-    A --> G["6. สถาปัตยกรรมมาตรฐาน IoTWF 7 ชั้น<br/>(Level 1 Physical Devices สู่ Level 7 Collaboration)"]
-
-    B --> H["<b>07-Exercise (หมวด A)</b><br> IoT Fundamentals & Technology"]
-    C --> H
-    D --> I["<b>07-Exercise (หมวด B)</b><br> Internet Layer & Application Protocols"]
-    E --> I
-    F --> J["<b>07-Exercise (หมวด C)</b><br> System Challenges & IoTWF Architecture"]
-    G --> J
-    
-    H --> K["<b>AI TA Auditor Workflow</b><br> ประเมินคำตอบตาม Rubric & ส่งงานผ่าน GitHub PR"]
-    I --> K
-    J --> K
-```
+<p align="center"><img src="Images/Fig_README_2026-10-27T07-24-29_academic.svg" alt="README" width="800" ></p>
+<p align="center"> แผนผังเนื้อหาการเรียนรู้ประจำสัปดาห์ (Lesson Roadmap)</p>
 
 ---
 

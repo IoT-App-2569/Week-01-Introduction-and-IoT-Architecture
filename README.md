@@ -57,21 +57,8 @@
 | **Level 2** | **Connectivity** | การสื่อสารและส่งผ่านข้อมูลระหว่างอุปกรณ์และระบบเครือข่าย | Wi-Fi, BLE, LoRaWAN, Cellular, IPv6, 6LoWPAN, RPL |
 | **Level 1** | **Physical Devices & Controllers** | ตรวจวัดสภาพแวดล้อมทางกายภาพและสั่งการทำงานอุปกรณ์จริง | Sensors, Actuators, Microcontrollers (ESP32), ADC/DAC |
 
-```
-    [ Physical World ]                 [ Edge / Network ]                 [ Digital / Cloud World ]
-   +-------------------+              +-------------------+              +-------------------------+
-   |  Physical Sensors |              |    Edge Gateway   |              |  Cloud Data Accumulation|
-   |   (Temperature,   |--[Analog/]-->|   (ESP32 / MCU)   |--[IP/Network]-->|  (Time-Series / DB)     |
-   |    Light, ADC)    |  [Digital]   | Preprocessing     |  (6LoWPAN/WiFi) |            |            |
-   +-------------------+              +-------------------+              +-------------------------+
-             ^                                  |                                     |
-             |                                  | [Local Loop]                        v
-             |                                  v                               +--------------------+
-             |                        +-------------------+                     | Application Layer  |
-             +----[Physical Action]---|     Actuators     |                     | (Web Dashboard, UI,|
-                                      | (Relay/Motor/LED) |                     |  Business Insights)|
-                                      +-------------------+                     +--------------------+
-```
+<p align="center"><img src="Images/Fig_README_2026-10-27T07-53-18_academic.svg" alt="README" ></p>
+<p align="center">  4. โครงสร้างสถาปัตยกรรม IoTWF 7 ชั้น และวงจรระบบกายภาพสู่ดิจิทัล (Architecture &amp; Data Flow)</p>
 
 ---
 

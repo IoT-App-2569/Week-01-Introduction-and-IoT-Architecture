@@ -111,11 +111,8 @@ IoT คือระบบที่ทำให้โลกจริงสาม�
 
 Automatic system คือระบบที่ทำงานอัตโนมัติในระดับพื้นฐาน โดยมีวงจรการทำงานดังนี้:
 
-```mermaid
-flowchart LR
-    A[Sensor<br>รับรู้สภาพแวดล้อม] --> B[Decision<br>ตัดสินใจภายในอุปกรณ์]
-    B --> C[Actuator<br>ควบคุมการทำงาน]
-```
+<p align="center"><img src="Images/Fig_01-Introduction_to_Internet_of_Things_2026-10-27T20-10-36_academic.svg" alt="01-Introduction_to_Internet_of_Things" width="800" ></p>
+<p align="center">  🔄 สรุปภาพรวม Automatic System</p>
 
 ระบบเหล่านี้ไม่มีการเชื่อมต่อเครือข่าย ไม่มีการส่งข้อมูลไปยังระบบอื่น และไม่มีการนำข้อมูลไปวิเคราะห์ต่อในโลกดิจิทัล
 

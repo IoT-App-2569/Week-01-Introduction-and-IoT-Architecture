@@ -265,7 +265,7 @@
 
 สุดท้าย ให้ข้อเสนอแนะว่าฉันควรปรับปรุงตรงไหนเพื่อให้ได้คะแนนสูงขึ้น
 ```
-<img width="1556" height="324" alt="image" src="https://github.com/user-attachments/assets/2c67dffa-4c45-48da-8bd3-09290d5064c3" />
+<img width="1919" height="934" alt="image-1" src="https://github.com/user-attachments/assets/8531d365-b808-410b-ac67-b872344d0930" />
 
 ---
 ***Last update:***  2026-06-28

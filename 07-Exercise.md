@@ -66,6 +66,7 @@
 
 สุดท้าย ให้ข้อเสนอแนะว่าฉันควรปรับปรุงตรงไหนเพื่อให้ได้คะแนนสูงขึ้น
 ```
+<img width="893" height="575" alt="Screenshot 2026-10-31 132603" src="https://github.com/user-attachments/assets/40895c29-63cc-47fd-8962-602028cd306d" />
 
 ---
 ## Prompt หมวด A — ข้อที่ 2: IoT Technology
@@ -143,6 +144,9 @@
 
 สุดท้าย ให้ข้อเสนอแนะว่าฉันควรปรับปรุงตรงไหนเพื่อให้ได้คะแนนสูงขึ้น
 
+```
+<img width="1919" height="934" alt="image" src="https://github.com/user-attachments/assets/b82bae72-34f0-4f61-acce-0d15a42bc4aa" />
+```
 ```
 
 # **Prompt หมวด B — ข้อที่ 2: Application Layer Technology**
@@ -261,6 +265,7 @@
 
 สุดท้าย ให้ข้อเสนอแนะว่าฉันควรปรับปรุงตรงไหนเพื่อให้ได้คะแนนสูงขึ้น
 ```
+<img width="1556" height="324" alt="image" src="https://github.com/user-attachments/assets/2c67dffa-4c45-48da-8bd3-09290d5064c3" />
 
 ---
 ***Last update:***  2026-06-28

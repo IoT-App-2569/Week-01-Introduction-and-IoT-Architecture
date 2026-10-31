@@ -1,4 +1,4 @@
-# **งานสัปดาห์ที่ 1 — IoT Fundamentals Exercise** 
+ปป# **งานสัปดาห์ที่ 1 — IoT Fundamentals Exercise** 
 
 ให้นักศึกษาเลือกทำ **3 หัวข้อจากทั้งหมด 6 หัวข้อ** โดยต้องเลือกแบบกระจายเนื้อหาดังนี้:
 
@@ -66,6 +66,7 @@
 
 สุดท้าย ให้ข้อเสนอแนะว่าฉันควรปรับปรุงตรงไหนเพื่อให้ได้คะแนนสูงขึ้น
 ```
+<img width="1917" height="968" alt="image" src="https://github.com/user-attachments/assets/b4e5d05f-6a08-4dd6-9b43-d9faad5af89b" />
 
 ---
 ## Prompt หมวด A — ข้อที่ 2: IoT Technology
@@ -144,6 +145,7 @@
 สุดท้าย ให้ข้อเสนอแนะว่าฉันควรปรับปรุงตรงไหนเพื่อให้ได้คะแนนสูงขึ้น
 
 ```
+<img width="1917" height="962" alt="image" src="https://github.com/user-attachments/assets/9856e6e4-2715-4b11-850b-2b5a19bfa8cb" />
 
 # **Prompt หมวด B — ข้อที่ 2: Application Layer Technology**
 
@@ -222,6 +224,7 @@
 
 สุดท้าย ให้ข้อเสนอแนะว่าฉันควรปรับปรุงตรงไหนเพื่อให้ได้คะแนนสูงขึ้น
 ```
+<img width="1917" height="967" alt="image" src="https://github.com/user-attachments/assets/574815e0-0d8e-4325-bdef-ff3d81254cd1" />
 
 ---
 #  **Prompt หมวด C — ข้อที่ 2: IoTWF Standardized Architecture**
